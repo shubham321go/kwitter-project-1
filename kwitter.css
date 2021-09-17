@@ -1,0 +1,11 @@
+img{
+width:10%;
+}
+body{
+    background-color: greenyellow;
+}
+#form-group{
+    background-color: white;
+    border-left: 500px;
+    border-right: 500px;
+}

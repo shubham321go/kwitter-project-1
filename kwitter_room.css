@@ -1,0 +1,8 @@
+body{
+    background-color: greenyellow;
+}
+#output{
+    background-color: white;
+    border-left: 500px;
+    border-right: 500px;
+}
